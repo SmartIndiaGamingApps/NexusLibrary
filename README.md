@@ -29,6 +29,5 @@ To use the **Nexus Library** in your Android project, follow these steps:
        }
    }
    dependencies {
-    implementation 'com.github.NexusTeam:NexusLibrary:1.0.0' // Replace with your GitHub repo and version
-}
+    implementation 'com.github.NexusTeam:NexusLibrary:1.0' // Replace with your GitHub repo and version
    
